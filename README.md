@@ -1,7 +1,7 @@
 <h1 align="center">Teste Front-End Corebiz</h1>
 
 O intuito desse projeto é fazer a página inicial de um e-commerce consumindo uma api fornecida
-pela própria Corebiz, para trazer o seus produtos. Outro foco importante é as sua newslatter
+pela própria Corebiz, para trazer o seus produtos.Com enfase em sua newslatter
 onde será feito um post das informações preenchidas na NewsLatter para uma API também fornecida
 pela Corebiz.
 
